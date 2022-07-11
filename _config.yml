@@ -1,7 +1,7 @@
 # Site
 title:              Gal Ben Naim
-bio:                'Software developer providing services regarding game development and audio/MIDI plugins. Passionate and enthusiast, hard-working and autodidact. Always looking for new challanges and happy to connect with new people. :)'
-description:        "I developed high quality cross-platform applications in C++ and in C# (Unity) from start to finish."
+bio:                'Software developer providing services regarding game development and audio/MIDI plugins.<br>Passionate and enthusiast, hard-working and autodidact. <br>Always looking for new challanges and happy to connect with new people. :)'
+description:        "I develop high quality cross-platform applications in C++ and in C# (Unity) from start to finish."
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
